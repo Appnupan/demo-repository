@@ -57,10 +57,10 @@
 
 ## 🏋️‍♀️ 종사자
 #### 💽 BackEnd
-🦝 [탁동훈]()
+🦝 [탁동훈](https://github.com/edoh0617)
 
-🐸 [유찬혁]()
+🐸 [유찬혁](https://github.com/ChanHyuckYou)
 #### 🖥️ FrontEnd
-🦁 [장현서]()
+🦁 [장현서](https://github.com/neu317)
 
-🐸 [유찬혁]()
+🐸 [유찬혁](https://github.com/ChanHyuckYou)
