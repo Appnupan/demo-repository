@@ -5,7 +5,7 @@
 - 기존에 있는 테블릿이 배치된 테이블 오더 시스템은 비용이 비싸고, 유지보수가 힘들다고 생각하여 태블릿이 아닌 좀 더 저렴하고 관리가 편리한 방식으로 개발하고자 하였다.
 - 손님들이 한눈에 보고 적응할 수 있는 UI를 제공하고 매장에서도 주문을 확인하고 서비스를 제공할 수 있는 시스템을 개발하고자 하였다.
 
-----
+
 
 
 ## 🎉 개발 목표
@@ -15,7 +15,7 @@
 - 가게의 효율적인 운영을 지원
 
 
-----
+
 
 
 ## 🧑‍🔬 주요 기능
@@ -25,23 +25,23 @@
 - 가맹점주는 실시간 주문내역 조회
 
 
-----
+
 
 
 ## ↕️ Flow
 #### ![Flow Chart](.github/workflows/Appnupan_FlowChart.png)
 
 
-----
+
 #### ![Service](.github/workflows/Appnupan_ServiceFlow.png)
 
 
-----
+
 #### ![System](.github/workflows/Appnupan_SystemFlow.png)
 
 
 
-----
+
 ## ⛏️ Stacks
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"> <img src="https://img.shields.io/badge/Intelij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
 
@@ -54,7 +54,7 @@
 
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
-----
+
 ## 🏋️‍♀️ 종사자
 #### 💽 BackEnd
 🦝 [탁동훈]()
