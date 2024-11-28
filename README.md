@@ -47,12 +47,12 @@
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 ----
-## 종사자
-#### BackEnd
+## 🏋️‍♀️ 종사자
+#### 💽 BackEnd
 🦝 [탁동훈]()
 
 🐸 [유찬혁]()
-#### FrontEnd
+#### 🖥️ FrontEnd
 🦁 [장현서]()
 
 🐸 [유찬혁]()
