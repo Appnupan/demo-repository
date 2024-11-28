@@ -64,3 +64,14 @@
 🦁 [장현서](https://github.com/neu317)
 
 🐸 [유찬혁](https://github.com/ChanHyuckYou)
+
+
+# 🛠️ Githun - Settings...
+## Web(User)
+[Appnupan - Web](https://github.com/Appnupan/Web)
+
+## Application(Owner)
+[Appnupan - App](https://github.com/Appnupan/App)
+
+## Server
+[Appnupan - Server](https://github.com/Appnupan/Server)
